@@ -2,3 +2,8 @@ pandas
 numpy
 scikit-learn
 matplotlib
+xgboost
+lightgbm
+tensorflow
+shap
+jupyter
